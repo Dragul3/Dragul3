@@ -37,4 +37,18 @@ During my final Cybersecurity internship project, I worked on the implementation
 
 ## 📌 Featured Projects
 
-🚧 Projects are currently being documented and will be published soon.
+### 🔐 [Cybersecurity Monitoring Lab](https://github.com/Dragul3/cybersecurity-monitoring-lab)
+
+Practical SIEM / IDS / CTI platform developed during my Cybersecurity internship.
+
+**Technologies:** Wazuh, Suricata, MISP, AbuseIPDB, Proxmox VE, Linux, Bash, OpenSearch
+
+**Key features:**
+- Centralized SIEM monitoring with Wazuh
+- Network intrusion detection with Suricata
+- MISP IOC integration and automated synchronization
+- AbuseIPDB reputation enrichment
+- Custom detection and correlation rules
+- Controlled Wazuh Active Response
+- Automated IOC-based local blocking
+- OpenSearch ISM retention policy
