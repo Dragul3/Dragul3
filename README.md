@@ -22,7 +22,7 @@ During my final Cybersecurity internship project, I worked on the implementation
 
 **Cybersecurity & Infrastructure**
 
-`Wazuh` `Suricata` `MISP` `Proxmox` `Linux` `Networking` `SIEM` `NIDS`
+`Wazuh` `Suricata` `MISP` `AbuseIPDB` `Proxmox` `Linux` `Networking` `SIEM` `NIDS` `CTI`
 
 **Programming**
 
